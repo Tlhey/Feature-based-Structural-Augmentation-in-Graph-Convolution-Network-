@@ -1,14 +1,23 @@
-Data Augmentation for Graph Neural Networks
+# Feature-based Structural Augmentation in Graph Convolution Network 
+
+## Our Contrubution
+We added Similarity Metrix calculation to the optuna method and make modification on GAUG-M source code. 
+We also put the output of our model in the folder Ouput.
+
+Contribution:
+Improved accuracy in node classification using graph convolution network 
+Proposed a framework that significantly improve the applicability of graph convolution network in High-dimensional and Low-Homophily graph.
+
+## Fork Repo 
 ====
-This repository contains the source code for the AAAI'2021 paper:
-
+Source code for the AAAI'2021 paper:
 [Data Augmentation for Graph Neural Networks](https://arxiv.org/pdf/2006.06830.pdf)
-
 by [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), [Yozen Liu](https://research.snap.com/team/yozen-liu),  [Leonardo Neves](https://research.snap.com/team/leonardo-neves), [Oliver Woodford](https://ojwoodford.github.io/), [Meng Jiang](http://www.meng-jiang.com/), and [Neil Shah](http://nshah.net/).
 
 ## Requirements
 
-This code package was developed and tested with Python 3.7.6. Make sure all dependencies specified in the ```requirements.txt``` file are satisfied before running the model. This can be achieved by
+Python 3.7.6. 
+Make sure all dependencies specified in the ```requirements.txt``` file are satisfied before running the model. This can be achieved by
 ```
 pip install -r requirements.txt
 ```
@@ -29,15 +38,4 @@ Please find the all edge_probabilities files at https://tinyurl.com/gaug-data. T
 ## Cite
 If you find this repository useful in your research, please cite our paper:
 
-```bibtex
-@inproceedings{zhao2021data,
-  title={Data Augmentation for Graph Neural Networks},
-  author={Zhao, Tong and Liu, Yozen and Neves, Leonardo and Woodford, Oliver and Jiang, Meng and Shah, Neil},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={12},
-  pages={11015--11023},
-  year={2021}
-}
-```
 
