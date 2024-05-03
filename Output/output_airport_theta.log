@@ -1,0 +1,611 @@
+2024-04-21 00:40:13,284 - start
+[32m[I 2024-04-21 00:47:20,807][0m Finished trial#0 with value: 0.5705482192877152 with parameters: {'remove_pct': 8, 'add_pct': 58, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.5705482192877152.[0m
+[32m[I 2024-04-21 00:53:03,548][0m Finished trial#1 with value: 0.5581432573029211 with parameters: {'remove_pct': 77, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.5705482192877152.[0m
+[32m[I 2024-04-21 01:00:22,801][0m Finished trial#2 with value: 0.5737094837935175 with parameters: {'remove_pct': 15, 'add_pct': 53, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 01:07:30,391][0m Finished trial#3 with value: 0.5676670668267307 with parameters: {'remove_pct': 25, 'add_pct': 69, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 01:12:41,586][0m Finished trial#4 with value: 0.5438575430172069 with parameters: {'remove_pct': 66, 'add_pct': 0, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 01:18:14,303][0m Finished trial#5 with value: 0.5626650660264105 with parameters: {'remove_pct': 65, 'add_pct': 44, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 01:24:20,594][0m Finished trial#6 with value: 0.558343337334934 with parameters: {'remove_pct': 57, 'add_pct': 76, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 01:30:01,722][0m Finished trial#7 with value: 0.5634653861544617 with parameters: {'remove_pct': 65, 'add_pct': 60, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 01:35:30,379][0m Finished trial#8 with value: 0.5386954781912764 with parameters: {'remove_pct': 74, 'add_pct': 65, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 01:41:03,438][0m Finished trial#9 with value: 0.5440176070428172 with parameters: {'remove_pct': 69, 'add_pct': 70, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 01:47:27,887][0m Finished trial#10 with value: 0.5667466986794718 with parameters: {'remove_pct': 3, 'add_pct': 19, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 01:54:03,961][0m Finished trial#11 with value: 0.5695478191276511 with parameters: {'remove_pct': 2, 'add_pct': 48, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 02:00:27,970][0m Finished trial#12 with value: 0.5702681072428972 with parameters: {'remove_pct': 21, 'add_pct': 53, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.5737094837935175.[0m
+[32m[I 2024-04-21 02:06:47,707][0m Finished trial#13 with value: 0.5792316926770709 with parameters: {'remove_pct': 18, 'add_pct': 31, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#13 with value: 0.5792316926770709.[0m
+[32m[I 2024-04-21 02:13:01,514][0m Finished trial#14 with value: 0.5596238495398159 with parameters: {'remove_pct': 34, 'add_pct': 28, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#13 with value: 0.5792316926770709.[0m
+[32m[I 2024-04-21 02:19:52,469][0m Finished trial#15 with value: 0.5546218487394958 with parameters: {'remove_pct': 14, 'add_pct': 11, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#13 with value: 0.5792316926770709.[0m
+[32m[I 2024-04-21 02:26:36,899][0m Finished trial#16 with value: 0.5793517406962785 with parameters: {'remove_pct': 43, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#16 with value: 0.5793517406962785.[0m
+[32m[I 2024-04-21 02:33:02,740][0m Finished trial#17 with value: 0.5772709083633454 with parameters: {'remove_pct': 49, 'add_pct': 29, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#16 with value: 0.5793517406962785.[0m
+[32m[I 2024-04-21 02:38:53,602][0m Finished trial#18 with value: 0.5681472589035614 with parameters: {'remove_pct': 39, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#16 with value: 0.5793517406962785.[0m
+[32m[I 2024-04-21 02:44:40,191][0m Finished trial#19 with value: 0.5422569027611044 with parameters: {'remove_pct': 31, 'add_pct': 16, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#16 with value: 0.5793517406962785.[0m
+[32m[I 2024-04-21 02:50:16,654][0m Finished trial#20 with value: 0.5800720288115246 with parameters: {'remove_pct': 48, 'add_pct': 4, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 02:55:54,637][0m Finished trial#21 with value: 0.5777911164465787 with parameters: {'remove_pct': 48, 'add_pct': 5, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:01:38,387][0m Finished trial#22 with value: 0.5703481392557024 with parameters: {'remove_pct': 47, 'add_pct': 23, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:07:00,024][0m Finished trial#23 with value: 0.5597438975590235 with parameters: {'remove_pct': 54, 'add_pct': 9, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:12:53,841][0m Finished trial#24 with value: 0.5720688275310124 with parameters: {'remove_pct': 40, 'add_pct': 42, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:18:30,719][0m Finished trial#25 with value: 0.5705482192877152 with parameters: {'remove_pct': 42, 'add_pct': 0, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:24:24,785][0m Finished trial#26 with value: 0.5696678671468588 with parameters: {'remove_pct': 29, 'add_pct': 28, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:29:48,468][0m Finished trial#27 with value: 0.567547018807523 with parameters: {'remove_pct': 58, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:35:33,934][0m Finished trial#28 with value: 0.5716686674669867 with parameters: {'remove_pct': 37, 'add_pct': 22, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:41:24,603][0m Finished trial#29 with value: 0.5501800720288116 with parameters: {'remove_pct': 19, 'add_pct': 13, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:47:24,771][0m Finished trial#30 with value: 0.5628251300520207 with parameters: {'remove_pct': 9, 'add_pct': 24, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:52:57,918][0m Finished trial#31 with value: 0.5785514205682272 with parameters: {'remove_pct': 46, 'add_pct': 3, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 03:58:44,057][0m Finished trial#32 with value: 0.5774309723889556 with parameters: {'remove_pct': 45, 'add_pct': 5, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 04:04:14,009][0m Finished trial#33 with value: 0.5693077230892357 with parameters: {'remove_pct': 55, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 04:09:35,879][0m Finished trial#34 with value: 0.5610644257703081 with parameters: {'remove_pct': 53, 'add_pct': 6, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 04:16:21,230][0m Finished trial#35 with value: 0.5396158463385353 with parameters: {'remove_pct': 34, 'add_pct': 17, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 04:22:24,781][0m Finished trial#36 with value: 0.5485794317727091 with parameters: {'remove_pct': 60, 'add_pct': 0, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#20 with value: 0.5800720288115246.[0m
+[32m[I 2024-04-21 04:29:30,092][0m Finished trial#37 with value: 0.5808323329331733 with parameters: {'remove_pct': 26, 'add_pct': 39, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#37 with value: 0.5808323329331733.[0m
+[32m[I 2024-04-21 04:35:56,111][0m Finished trial#38 with value: 0.571108443377351 with parameters: {'remove_pct': 25, 'add_pct': 48, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#37 with value: 0.5808323329331733.[0m
+[32m[I 2024-04-21 04:41:57,381][0m Finished trial#39 with value: 0.5811124449779913 with parameters: {'remove_pct': 12, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 04:47:50,077][0m Finished trial#40 with value: 0.577310924369748 with parameters: {'remove_pct': 25, 'add_pct': 39, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 04:53:59,416][0m Finished trial#41 with value: 0.5719887955182072 with parameters: {'remove_pct': 11, 'add_pct': 47, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:00:01,535][0m Finished trial#42 with value: 0.5717086834733893 with parameters: {'remove_pct': 19, 'add_pct': 53, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:06:07,405][0m Finished trial#43 with value: 0.5753501400560224 with parameters: {'remove_pct': 6, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:12:14,632][0m Finished trial#44 with value: 0.5779111644657864 with parameters: {'remove_pct': 16, 'add_pct': 41, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:18:15,474][0m Finished trial#45 with value: 0.5689875950380152 with parameters: {'remove_pct': 29, 'add_pct': 31, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:24:29,708][0m Finished trial#46 with value: 0.5759503801520609 with parameters: {'remove_pct': 6, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:30:38,237][0m Finished trial#47 with value: 0.5702280912364945 with parameters: {'remove_pct': 24, 'add_pct': 45, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:36:58,466][0m Finished trial#48 with value: 0.5725090036014405 with parameters: {'remove_pct': 15, 'add_pct': 57, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:43:00,941][0m Finished trial#49 with value: 0.5685074029611844 with parameters: {'remove_pct': 34, 'add_pct': 27, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:49:56,199][0m Finished trial#50 with value: 0.5725490196078432 with parameters: {'remove_pct': 12, 'add_pct': 52, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 05:56:23,613][0m Finished trial#51 with value: 0.565186074429772 with parameters: {'remove_pct': 50, 'add_pct': 42, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 06:02:52,013][0m Finished trial#52 with value: 0.5769507803121248 with parameters: {'remove_pct': 43, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#39 with value: 0.5811124449779913.[0m
+[32m[I 2024-04-21 06:09:16,034][0m Finished trial#53 with value: 0.5827931172468988 with parameters: {'remove_pct': 45, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 06:15:32,469][0m Finished trial#54 with value: 0.5696678671468587 with parameters: {'remove_pct': 52, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 06:21:54,444][0m Finished trial#55 with value: 0.5733893557422969 with parameters: {'remove_pct': 37, 'add_pct': 26, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 06:28:15,919][0m Finished trial#56 with value: 0.5759903961584635 with parameters: {'remove_pct': 42, 'add_pct': 31, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 06:35:07,369][0m Finished trial#57 with value: 0.5784313725490196 with parameters: {'remove_pct': 21, 'add_pct': 78, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 06:41:50,712][0m Finished trial#58 with value: 0.5657462985194078 with parameters: {'remove_pct': 1, 'add_pct': 20, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 06:47:45,953][0m Finished trial#59 with value: 0.56390556222489 with parameters: {'remove_pct': 61, 'add_pct': 44, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 06:54:15,270][0m Finished trial#60 with value: 0.5686674669867948 with parameters: {'remove_pct': 30, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:00:37,065][0m Finished trial#61 with value: 0.5760304121648658 with parameters: {'remove_pct': 45, 'add_pct': 30, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:06:56,671][0m Finished trial#62 with value: 0.5718687474989995 with parameters: {'remove_pct': 46, 'add_pct': 25, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:12:58,475][0m Finished trial#63 with value: 0.5639455782312925 with parameters: {'remove_pct': 51, 'add_pct': 2, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:18:55,309][0m Finished trial#64 with value: 0.5685874349739897 with parameters: {'remove_pct': 37, 'add_pct': 10, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:24:45,850][0m Finished trial#65 with value: 0.5699479791916766 with parameters: {'remove_pct': 48, 'add_pct': 13, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:30:47,000][0m Finished trial#66 with value: 0.5826730692276912 with parameters: {'remove_pct': 45, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:36:54,090][0m Finished trial#67 with value: 0.5696278511404562 with parameters: {'remove_pct': 39, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:43:01,304][0m Finished trial#68 with value: 0.5769107643057223 with parameters: {'remove_pct': 42, 'add_pct': 40, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:49:15,205][0m Finished trial#69 with value: 0.5656262505002001 with parameters: {'remove_pct': 33, 'add_pct': 50, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 07:55:14,892][0m Finished trial#70 with value: 0.5800720288115245 with parameters: {'remove_pct': 44, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:01:12,517][0m Finished trial#71 with value: 0.5729891956782713 with parameters: {'remove_pct': 40, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:06:43,871][0m Finished trial#72 with value: 0.57218887555022 with parameters: {'remove_pct': 55, 'add_pct': 29, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:12:32,686][0m Finished trial#73 with value: 0.5711084433773509 with parameters: {'remove_pct': 49, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:18:25,661][0m Finished trial#74 with value: 0.5775910364145659 with parameters: {'remove_pct': 44, 'add_pct': 42, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:24:28,762][0m Finished trial#75 with value: 0.5672268907563025 with parameters: {'remove_pct': 17, 'add_pct': 22, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:30:01,487][0m Finished trial#76 with value: 0.5676270508203282 with parameters: {'remove_pct': 57, 'add_pct': 39, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:36:10,268][0m Finished trial#77 with value: 0.5793117246898759 with parameters: {'remove_pct': 13, 'add_pct': 31, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:42:30,236][0m Finished trial#78 with value: 0.567466986794718 with parameters: {'remove_pct': 7, 'add_pct': 46, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:48:49,103][0m Finished trial#79 with value: 0.576750700280112 with parameters: {'remove_pct': 10, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 08:54:48,931][0m Finished trial#80 with value: 0.577390956382553 with parameters: {'remove_pct': 40, 'add_pct': 28, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:01:08,836][0m Finished trial#81 with value: 0.57703081232493 with parameters: {'remove_pct': 4, 'add_pct': 30, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:07:25,260][0m Finished trial#82 with value: 0.5807122849139656 with parameters: {'remove_pct': 14, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:13:39,650][0m Finished trial#83 with value: 0.5824729891956782 with parameters: {'remove_pct': 13, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:19:35,779][0m Finished trial#84 with value: 0.5766306522609044 with parameters: {'remove_pct': 48, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:25:40,445][0m Finished trial#85 with value: 0.5764305722288916 with parameters: {'remove_pct': 27, 'add_pct': 43, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:32:00,195][0m Finished trial#86 with value: 0.5669867947178873 with parameters: {'remove_pct': 22, 'add_pct': 70, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:37:57,779][0m Finished trial#87 with value: 0.5759503801520609 with parameters: {'remove_pct': 38, 'add_pct': 40, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:44:11,168][0m Finished trial#88 with value: 0.5777511004401761 with parameters: {'remove_pct': 9, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:50:07,379][0m Finished trial#89 with value: 0.576750700280112 with parameters: {'remove_pct': 44, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 09:56:25,894][0m Finished trial#90 with value: 0.5747098839535814 with parameters: {'remove_pct': 4, 'add_pct': 39, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#53 with value: 0.5827931172468988.[0m
+[32m[I 2024-04-21 10:02:39,026][0m Finished trial#91 with value: 0.5831132452981193 with parameters: {'remove_pct': 13, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#91 with value: 0.5831132452981193.[0m
+[32m[I 2024-04-21 10:08:50,610][0m Finished trial#92 with value: 0.5807122849139656 with parameters: {'remove_pct': 15, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#91 with value: 0.5831132452981193.[0m
+[32m[I 2024-04-21 10:15:05,203][0m Finished trial#93 with value: 0.5821528611444577 with parameters: {'remove_pct': 14, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#91 with value: 0.5831132452981193.[0m
+[32m[I 2024-04-21 10:21:18,851][0m Finished trial#94 with value: 0.5773109243697478 with parameters: {'remove_pct': 15, 'add_pct': 41, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#91 with value: 0.5831132452981193.[0m
+[32m[I 2024-04-21 10:27:43,923][0m Finished trial#95 with value: 0.57218887555022 with parameters: {'remove_pct': 13, 'add_pct': 64, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#91 with value: 0.5831132452981193.[0m
+[32m[I 2024-04-21 10:33:55,915][0m Finished trial#96 with value: 0.5831532613045218 with parameters: {'remove_pct': 19, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 10:40:05,237][0m Finished trial#97 with value: 0.577951180472189 with parameters: {'remove_pct': 20, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 10:46:24,874][0m Finished trial#98 with value: 0.5804321728691476 with parameters: {'remove_pct': 17, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 10:52:53,933][0m Finished trial#99 with value: 0.573109243697479 with parameters: {'remove_pct': 11, 'add_pct': 44, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 10:59:08,557][0m Finished trial#100 with value: 0.5796318527410964 with parameters: {'remove_pct': 23, 'add_pct': 27, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 11:05:31,333][0m Finished trial#101 with value: 0.5810324129651862 with parameters: {'remove_pct': 18, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 11:11:54,311][0m Finished trial#102 with value: 0.5815926370548219 with parameters: {'remove_pct': 18, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 11:18:43,549][0m Finished trial#103 with value: 0.5826730692276911 with parameters: {'remove_pct': 13, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 11:25:41,686][0m Finished trial#104 with value: 0.5803121248499399 with parameters: {'remove_pct': 18, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 11:32:45,105][0m Finished trial#105 with value: 0.5711484593837535 with parameters: {'remove_pct': 8, 'add_pct': 41, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 11:39:30,426][0m Finished trial#106 with value: 0.5821528611444579 with parameters: {'remove_pct': 20, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 11:45:55,866][0m Finished trial#107 with value: 0.5811124449779911 with parameters: {'remove_pct': 19, 'add_pct': 29, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 11:52:20,099][0m Finished trial#108 with value: 0.582593037214886 with parameters: {'remove_pct': 20, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 11:58:52,964][0m Finished trial#109 with value: 0.5792316926770709 with parameters: {'remove_pct': 12, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 12:05:13,833][0m Finished trial#110 with value: 0.5748299319727891 with parameters: {'remove_pct': 22, 'add_pct': 25, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 12:11:36,648][0m Finished trial#111 with value: 0.5815526210484193 with parameters: {'remove_pct': 20, 'add_pct': 29, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 12:17:50,065][0m Finished trial#112 with value: 0.5780712284913965 with parameters: {'remove_pct': 16, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 12:23:58,035][0m Finished trial#113 with value: 0.581032412965186 with parameters: {'remove_pct': 20, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 12:30:00,770][0m Finished trial#114 with value: 0.576470588235294 with parameters: {'remove_pct': 27, 'add_pct': 30, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 12:36:18,431][0m Finished trial#115 with value: 0.5769107643057222 with parameters: {'remove_pct': 10, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 12:42:27,682][0m Finished trial#116 with value: 0.5822729091636655 with parameters: {'remove_pct': 13, 'add_pct': 27, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 12:48:36,614][0m Finished trial#117 with value: 0.5783113245298118 with parameters: {'remove_pct': 14, 'add_pct': 27, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 12:54:59,108][0m Finished trial#118 with value: 0.5708683473389355 with parameters: {'remove_pct': 16, 'add_pct': 20, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:01:19,233][0m Finished trial#119 with value: 0.5721488595438176 with parameters: {'remove_pct': 21, 'add_pct': 23, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:07:36,888][0m Finished trial#120 with value: 0.5785514205682272 with parameters: {'remove_pct': 23, 'add_pct': 29, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:14:09,201][0m Finished trial#121 with value: 0.580392156862745 with parameters: {'remove_pct': 12, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:20:37,185][0m Finished trial#122 with value: 0.5794317727090835 with parameters: {'remove_pct': 17, 'add_pct': 31, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:26:55,400][0m Finished trial#123 with value: 0.5664265706282514 with parameters: {'remove_pct': 6, 'add_pct': 26, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:33:04,130][0m Finished trial#124 with value: 0.5818327330932374 with parameters: {'remove_pct': 13, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:39:08,481][0m Finished trial#125 with value: 0.5801120448179272 with parameters: {'remove_pct': 19, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:45:19,175][0m Finished trial#126 with value: 0.5794717887154862 with parameters: {'remove_pct': 14, 'add_pct': 40, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:51:28,594][0m Finished trial#127 with value: 0.5746298519407762 with parameters: {'remove_pct': 9, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 13:57:38,990][0m Finished trial#128 with value: 0.5742697078831533 with parameters: {'remove_pct': 17, 'add_pct': 43, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 14:03:48,994][0m Finished trial#129 with value: 0.5823929571828732 with parameters: {'remove_pct': 13, 'add_pct': 29, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 14:10:15,316][0m Finished trial#130 with value: 0.5763505402160864 with parameters: {'remove_pct': 11, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 14:16:40,239][0m Finished trial#131 with value: 0.580752300920368 with parameters: {'remove_pct': 13, 'add_pct': 29, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 14:23:00,975][0m Finished trial#132 with value: 0.5749499799919968 with parameters: {'remove_pct': 15, 'add_pct': 31, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 14:29:17,282][0m Finished trial#133 with value: 0.5827130852340936 with parameters: {'remove_pct': 20, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 14:35:40,512][0m Finished trial#134 with value: 0.5779911964785914 with parameters: {'remove_pct': 8, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 14:42:00,949][0m Finished trial#135 with value: 0.5760704281712686 with parameters: {'remove_pct': 10, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 14:48:24,346][0m Finished trial#136 with value: 0.5815926370548219 with parameters: {'remove_pct': 13, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 14:54:47,675][0m Finished trial#137 with value: 0.578671468587435 with parameters: {'remove_pct': 13, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:01:02,523][0m Finished trial#138 with value: 0.5770708283313325 with parameters: {'remove_pct': 25, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:07:22,237][0m Finished trial#139 with value: 0.5711084433773509 with parameters: {'remove_pct': 12, 'add_pct': 25, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:13:40,636][0m Finished trial#140 with value: 0.5817927170868347 with parameters: {'remove_pct': 18, 'add_pct': 39, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:20:01,111][0m Finished trial#141 with value: 0.5805922368947579 with parameters: {'remove_pct': 18, 'add_pct': 39, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:26:26,120][0m Finished trial#142 with value: 0.5774709883953582 with parameters: {'remove_pct': 16, 'add_pct': 42, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:31:24,121][0m Finished trial#143 with value: 0.5585434173669468 with parameters: {'remove_pct': 77, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:37:44,922][0m Finished trial#144 with value: 0.5754301720688275 with parameters: {'remove_pct': 22, 'add_pct': 40, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:44:08,099][0m Finished trial#145 with value: 0.5779511804721889 with parameters: {'remove_pct': 11, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:50:29,983][0m Finished trial#146 with value: 0.5797919167667067 with parameters: {'remove_pct': 14, 'add_pct': 31, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 15:56:50,511][0m Finished trial#147 with value: 0.5753501400560225 with parameters: {'remove_pct': 15, 'add_pct': 28, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:03:08,387][0m Finished trial#148 with value: 0.5801120448179272 with parameters: {'remove_pct': 18, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:09:31,903][0m Finished trial#149 with value: 0.5740296118447379 with parameters: {'remove_pct': 7, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:15:45,646][0m Finished trial#150 with value: 0.58031212484994 with parameters: {'remove_pct': 20, 'add_pct': 27, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:22:03,299][0m Finished trial#151 with value: 0.5786314525810324 with parameters: {'remove_pct': 16, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:28:19,332][0m Finished trial#152 with value: 0.5787515006002402 with parameters: {'remove_pct': 14, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:34:23,526][0m Finished trial#153 with value: 0.5815526210484194 with parameters: {'remove_pct': 19, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:40:31,498][0m Finished trial#154 with value: 0.5785114045618247 with parameters: {'remove_pct': 10, 'add_pct': 30, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:46:40,514][0m Finished trial#155 with value: 0.5825530212084834 with parameters: {'remove_pct': 16, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:52:47,614][0m Finished trial#156 with value: 0.5824729891956782 with parameters: {'remove_pct': 13, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 16:58:53,334][0m Finished trial#157 with value: 0.5733493397358945 with parameters: {'remove_pct': 17, 'add_pct': 41, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 17:04:59,770][0m Finished trial#158 with value: 0.5802721088435374 with parameters: {'remove_pct': 15, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 17:10:50,989][0m Finished trial#159 with value: 0.5794317727090837 with parameters: {'remove_pct': 46, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 17:16:59,934][0m Finished trial#160 with value: 0.5698679471788715 with parameters: {'remove_pct': 21, 'add_pct': 45, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 17:23:16,228][0m Finished trial#161 with value: 0.5768307322929171 with parameters: {'remove_pct': 12, 'add_pct': 31, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 17:29:25,967][0m Finished trial#162 with value: 0.5791916766706681 with parameters: {'remove_pct': 24, 'add_pct': 39, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 17:35:40,478][0m Finished trial#163 with value: 0.5792717086834734 with parameters: {'remove_pct': 18, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 17:41:56,526][0m Finished trial#164 with value: 0.5806322529011605 with parameters: {'remove_pct': 13, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 17:48:15,762][0m Finished trial#165 with value: 0.5770708283313325 with parameters: {'remove_pct': 11, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 17:54:39,544][0m Finished trial#166 with value: 0.5766306522609044 with parameters: {'remove_pct': 9, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 18:01:00,559][0m Finished trial#167 with value: 0.5804321728691477 with parameters: {'remove_pct': 14, 'add_pct': 30, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 18:07:22,165][0m Finished trial#168 with value: 0.5805122048819527 with parameters: {'remove_pct': 16, 'add_pct': 28, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 18:13:44,571][0m Finished trial#169 with value: 0.5775910364145659 with parameters: {'remove_pct': 19, 'add_pct': 40, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 18:20:11,557][0m Finished trial#170 with value: 0.582232893157263 with parameters: {'remove_pct': 13, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 18:26:37,087][0m Finished trial#171 with value: 0.5797919167667066 with parameters: {'remove_pct': 16, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 18:31:23,446][0m Finished trial#172 with value: 0.553701480592237 with parameters: {'remove_pct': 80, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 18:37:42,832][0m Finished trial#173 with value: 0.5818727490996398 with parameters: {'remove_pct': 12, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>[32m[I 2024-04-21 18:44:01,208][0m Finished trial#174 with value: 0.5759503801520608 with parameters: {'remove_pct': 11, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 18:50:19,078][0m Finished trial#175 with value: 0.5802721088435375 with parameters: {'remove_pct': 13, 'add_pct': 39, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 18:56:43,766][0m Finished trial#176 with value: 0.5711084433773509 with parameters: {'remove_pct': 9, 'add_pct': 43, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:03:08,791][0m Finished trial#177 with value: 0.5738695478191276 with parameters: {'remove_pct': 5, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:09:29,982][0m Finished trial#178 with value: 0.575750300120048 with parameters: {'remove_pct': 15, 'add_pct': 41, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:15:56,291][0m Finished trial#179 with value: 0.5797519007603041 with parameters: {'remove_pct': 12, 'add_pct': 37, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:22:18,846][0m Finished trial#180 with value: 0.5779111644657864 with parameters: {'remove_pct': 17, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:28:35,109][0m Finished trial#181 with value: 0.5785114045618247 with parameters: {'remove_pct': 21, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:34:52,641][0m Finished trial#182 with value: 0.5791116446578631 with parameters: {'remove_pct': 14, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:41:10,229][0m Finished trial#183 with value: 0.5810724289715885 with parameters: {'remove_pct': 18, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:47:24,480][0m Finished trial#184 with value: 0.5826330532212886 with parameters: {'remove_pct': 13, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:53:39,905][0m Finished trial#185 with value: 0.575750300120048 with parameters: {'remove_pct': 8, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 19:59:54,530][0m Finished trial#186 with value: 0.5783913565426172 with parameters: {'remove_pct': 10, 'add_pct': 30, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 20:06:06,768][0m Finished trial#187 with value: 0.5789515806322529 with parameters: {'remove_pct': 12, 'add_pct': 34, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 20:12:16,918][0m Finished trial#188 with value: 0.5813125250100041 with parameters: {'remove_pct': 14, 'add_pct': 35, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 20:18:24,104][0m Finished trial#189 with value: 0.5804721888755503 with parameters: {'remove_pct': 16, 'add_pct': 31, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 20:24:28,132][0m Finished trial#190 with value: 0.571468587434974 with parameters: {'remove_pct': 42, 'add_pct': 26, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 20:31:03,059][0m Finished trial#191 with value: 0.5792717086834734 with parameters: {'remove_pct': 13, 'add_pct': 33, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 20:37:36,450][0m Finished trial#192 with value: 0.5791516606642657 with parameters: {'remove_pct': 20, 'add_pct': 40, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 20:44:10,982][0m Finished trial#193 with value: 0.5778311324529812 with parameters: {'remove_pct': 15, 'add_pct': 36, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 20:50:48,735][0m Finished trial#194 with value: 0.5757903161264506 with parameters: {'remove_pct': 11, 'add_pct': 32, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 20:57:19,106][0m Finished trial#195 with value: 0.5804721888755502 with parameters: {'remove_pct': 13, 'add_pct': 28, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 21:03:39,530][0m Finished trial#196 with value: 0.5788315326130451 with parameters: {'remove_pct': 11, 'add_pct': 30, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 21:10:01,693][0m Finished trial#197 with value: 0.5795918367346939 with parameters: {'remove_pct': 17, 'add_pct': 38, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 21:16:22,195][0m Finished trial#198 with value: 0.5719087635054021 with parameters: {'remove_pct': 22, 'add_pct': 42, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+[32m[I 2024-04-21 21:22:46,789][0m Finished trial#199 with value: 0.579311724689876 with parameters: {'remove_pct': 15, 'add_pct': 39, 'dataset': 'airport', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#96 with value: 0.5831532613045218.[0m
+
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+<class 'torch.Tensor'>
+<class 'numpy.ndarray'>
+Number of finished trials:  200
+Best trial:
+  Value:  0.5831532613045218
+  Params: 
+    remove_pct: 19
+    add_pct: 38
+    dataset: airport
+    i: 2
+    gnn: gcn
+    eval_orig: 0

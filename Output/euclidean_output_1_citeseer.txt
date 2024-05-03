@@ -1,0 +1,10 @@
+Number of finished trials:  200
+Best trial:
+  Value:  0.7200666666666666
+  Params: 
+    remove_pct: 0
+    add_pct: 53
+    dataset: citeseer
+    i: 1_euclidean
+    gnn: gcn
+    eval_orig: 0

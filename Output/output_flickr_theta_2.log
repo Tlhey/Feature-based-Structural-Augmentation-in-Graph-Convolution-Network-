@@ -1,0 +1,7 @@
+2024-04-23 08:55:36,478 - start
+[32m[I 2024-04-23 15:16:51,925][0m Finished trial#0 with value: 0.2668678106732038 with parameters: {'remove_pct': 70, 'add_pct': 16, 'dataset': 'flickr', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.2668678106732038.[0m
+[32m[I 2024-04-23 22:52:03,742][0m Finished trial#1 with value: 0.1698095417688101 with parameters: {'remove_pct': 54, 'add_pct': 28, 'dataset': 'flickr', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.2668678106732038.[0m
+[32m[I 2024-04-24 07:20:58,677][0m Finished trial#2 with value: 0.16810610346344837 with parameters: {'remove_pct': 13, 'add_pct': 51, 'dataset': 'flickr', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.2668678106732038.[0m
+[32m[I 2024-04-24 14:47:57,929][0m Finished trial#3 with value: 0.23963794078823308 with parameters: {'remove_pct': 25, 'add_pct': 11, 'dataset': 'flickr', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.2668678106732038.[0m
+[32m[I 2024-04-24 21:51:45,765][0m Finished trial#4 with value: 0.2163366647809416 with parameters: {'remove_pct': 75, 'add_pct': 30, 'dataset': 'flickr', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.2668678106732038.[0m
+[32m[I 2024-04-25 06:31:59,353][0m Finished trial#5 with value: 0.15648375133572187 with parameters: {'remove_pct': 25, 'add_pct': 64, 'dataset': 'flickr', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.2668678106732038.[0m

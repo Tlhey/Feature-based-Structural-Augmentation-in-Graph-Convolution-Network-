@@ -1,0 +1,118 @@
+2024-04-20 11:19:43,346 - start
+[32m[I 2024-04-20 11:22:43,152][0m Finished trial#0 with value: 0.7029666666666666 with parameters: {'remove_pct': 55, 'add_pct': 50, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7029666666666666.[0m
+[32m[I 2024-04-20 11:25:32,027][0m Finished trial#1 with value: 0.7529999999999999 with parameters: {'remove_pct': 34, 'add_pct': 4, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#1 with value: 0.7529999999999999.[0m
+[32m[I 2024-04-20 11:28:43,458][0m Finished trial#2 with value: 0.7031666666666666 with parameters: {'remove_pct': 52, 'add_pct': 69, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#1 with value: 0.7529999999999999.[0m
+[32m[I 2024-04-20 11:32:05,556][0m Finished trial#3 with value: 0.7396999999999999 with parameters: {'remove_pct': 27, 'add_pct': 76, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#1 with value: 0.7529999999999999.[0m
+[32m[I 2024-04-20 11:34:51,909][0m Finished trial#4 with value: 0.7530666666666667 with parameters: {'remove_pct': 37, 'add_pct': 5, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#4 with value: 0.7530666666666667.[0m
+[32m[I 2024-04-20 11:38:01,986][0m Finished trial#5 with value: 0.7350666666666666 with parameters: {'remove_pct': 36, 'add_pct': 60, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#4 with value: 0.7530666666666667.[0m
+[32m[I 2024-04-20 11:41:15,498][0m Finished trial#6 with value: 0.7497333333333334 with parameters: {'remove_pct': 28, 'add_pct': 50, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#4 with value: 0.7530666666666667.[0m
+[32m[I 2024-04-20 11:44:35,150][0m Finished trial#7 with value: 0.7285000000000001 with parameters: {'remove_pct': 34, 'add_pct': 71, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#4 with value: 0.7530666666666667.[0m
+[32m[I 2024-04-20 11:47:35,806][0m Finished trial#8 with value: 0.6741333333333334 with parameters: {'remove_pct': 71, 'add_pct': 69, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#4 with value: 0.7530666666666667.[0m
+[32m[I 2024-04-20 11:50:27,612][0m Finished trial#9 with value: 0.6624 with parameters: {'remove_pct': 76, 'add_pct': 50, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#4 with value: 0.7530666666666667.[0m
+[32m[I 2024-04-20 11:53:33,196][0m Finished trial#10 with value: 0.8055 with parameters: {'remove_pct': 3, 'add_pct': 12, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#10 with value: 0.8055.[0m
+[32m[I 2024-04-20 11:56:38,002][0m Finished trial#11 with value: 0.8081999999999998 with parameters: {'remove_pct': 2, 'add_pct': 7, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#11 with value: 0.8081999999999998.[0m
+[32m[I 2024-04-20 11:59:48,003][0m Finished trial#12 with value: 0.8021333333333334 with parameters: {'remove_pct': 3, 'add_pct': 20, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#11 with value: 0.8081999999999998.[0m
+[32m[I 2024-04-20 12:03:00,906][0m Finished trial#13 with value: 0.8040333333333333 with parameters: {'remove_pct': 1, 'add_pct': 26, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#11 with value: 0.8081999999999998.[0m
+[32m[I 2024-04-20 12:06:05,714][0m Finished trial#14 with value: 0.7738666666666666 with parameters: {'remove_pct': 16, 'add_pct': 19, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#11 with value: 0.8081999999999998.[0m
+[32m[I 2024-04-20 12:09:01,772][0m Finished trial#15 with value: 0.7871000000000001 with parameters: {'remove_pct': 14, 'add_pct': 1, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#11 with value: 0.8081999999999998.[0m
+[32m[I 2024-04-20 12:12:15,270][0m Finished trial#16 with value: 0.7892000000000003 with parameters: {'remove_pct': 9, 'add_pct': 32, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#11 with value: 0.8081999999999998.[0m
+[32m[I 2024-04-20 12:15:16,753][0m Finished trial#17 with value: 0.7713000000000001 with parameters: {'remove_pct': 20, 'add_pct': 13, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#11 with value: 0.8081999999999998.[0m
+[32m[I 2024-04-20 12:18:24,918][0m Finished trial#18 with value: 0.8096333333333333 with parameters: {'remove_pct': 1, 'add_pct': 11, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:21:23,257][0m Finished trial#19 with value: 0.7216333333333333 with parameters: {'remove_pct': 47, 'add_pct': 36, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:24:23,329][0m Finished trial#20 with value: 0.7939666666666667 with parameters: {'remove_pct': 9, 'add_pct': 0, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:27:34,072][0m Finished trial#21 with value: 0.8092333333333332 with parameters: {'remove_pct': 1, 'add_pct': 11, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:30:41,998][0m Finished trial#22 with value: 0.8069666666666666 with parameters: {'remove_pct': 0, 'add_pct': 10, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:33:50,477][0m Finished trial#23 with value: 0.7924000000000001 with parameters: {'remove_pct': 8, 'add_pct': 23, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:36:48,031][0m Finished trial#24 with value: 0.7660666666666667 with parameters: {'remove_pct': 22, 'add_pct': 16, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:39:57,152][0m Finished trial#25 with value: 0.7836333333333333 with parameters: {'remove_pct': 12, 'add_pct': 30, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:43:06,159][0m Finished trial#26 with value: 0.8092333333333332 with parameters: {'remove_pct': 0, 'add_pct': 9, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:46:21,285][0m Finished trial#27 with value: 0.7925666666666668 with parameters: {'remove_pct': 6, 'add_pct': 40, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#18 with value: 0.8096333333333333.[0m
+[32m[I 2024-04-20 12:49:21,625][0m Finished trial#28 with value: 0.8148333333333334 with parameters: {'remove_pct': 0, 'add_pct': 0, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 12:51:51,594][0m Finished trial#29 with value: 0.7074999999999999 with parameters: {'remove_pct': 69, 'add_pct': 0, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 12:55:04,093][0m Finished trial#30 with value: 0.7701 with parameters: {'remove_pct': 18, 'add_pct': 42, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 12:58:09,533][0m Finished trial#31 with value: 0.8044666666666667 with parameters: {'remove_pct': 4, 'add_pct': 8, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:01:15,835][0m Finished trial#32 with value: 0.8108666666666667 with parameters: {'remove_pct': 0, 'add_pct': 14, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:04:15,656][0m Finished trial#33 with value: 0.7848 with parameters: {'remove_pct': 11, 'add_pct': 4, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:07:00,469][0m Finished trial#34 with value: 0.7124999999999998 with parameters: {'remove_pct': 59, 'add_pct': 19, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:10:08,552][0m Finished trial#35 with value: 0.8050666666666667 with parameters: {'remove_pct': 0, 'add_pct': 16, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:13:11,872][0m Finished trial#36 with value: 0.7489 with parameters: {'remove_pct': 29, 'add_pct': 26, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:16:10,962][0m Finished trial#37 with value: 0.7983333333333336 with parameters: {'remove_pct': 7, 'add_pct': 3, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:19:05,084][0m Finished trial#38 with value: 0.7608333333333334 with parameters: {'remove_pct': 24, 'add_pct': 6, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:21:50,532][0m Finished trial#39 with value: 0.7331333333333334 with parameters: {'remove_pct': 45, 'add_pct': 14, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:24:48,488][0m Finished trial#40 with value: 0.7792666666666666 with parameters: {'remove_pct': 14, 'add_pct': 8, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:27:56,913][0m Finished trial#41 with value: 0.8094333333333333 with parameters: {'remove_pct': 0, 'add_pct': 11, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:31:06,151][0m Finished trial#42 with value: 0.8128333333333334 with parameters: {'remove_pct': 0, 'add_pct': 3, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:34:05,843][0m Finished trial#43 with value: 0.8041000000000001 with parameters: {'remove_pct': 5, 'add_pct': 0, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#28 with value: 0.8148333333333334.[0m
+[32m[I 2024-04-20 13:37:10,545][0m Finished trial#44 with value: 0.8149999999999998 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 13:40:13,351][0m Finished trial#45 with value: 0.8008666666666666 with parameters: {'remove_pct': 6, 'add_pct': 3, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 13:43:34,412][0m Finished trial#46 with value: 0.7766000000000002 with parameters: {'remove_pct': 12, 'add_pct': 60, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 13:46:36,787][0m Finished trial#47 with value: 0.8035666666666667 with parameters: {'remove_pct': 4, 'add_pct': 5, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 13:49:30,410][0m Finished trial#48 with value: 0.7813333333333333 with parameters: {'remove_pct': 16, 'add_pct': 0, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 13:52:38,429][0m Finished trial#49 with value: 0.8066000000000001 with parameters: {'remove_pct': 0, 'add_pct': 16, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 13:55:34,613][0m Finished trial#50 with value: 0.7484666666666667 with parameters: {'remove_pct': 32, 'add_pct': 24, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 13:58:43,217][0m Finished trial#51 with value: 0.8125333333333334 with parameters: {'remove_pct': 0, 'add_pct': 13, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:01:57,029][0m Finished trial#52 with value: 0.8016333333333333 with parameters: {'remove_pct': 3, 'add_pct': 21, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:04:59,342][0m Finished trial#53 with value: 0.7941 with parameters: {'remove_pct': 9, 'add_pct': 14, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:08:04,102][0m Finished trial#54 with value: 0.8148 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:11:05,385][0m Finished trial#55 with value: 0.8050333333333335 with parameters: {'remove_pct': 4, 'add_pct': 5, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:14:07,520][0m Finished trial#56 with value: 0.7939666666666666 with parameters: {'remove_pct': 9, 'add_pct': 2, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:17:11,085][0m Finished trial#57 with value: 0.8066333333333334 with parameters: {'remove_pct': 3, 'add_pct': 7, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:20:12,384][0m Finished trial#58 with value: 0.8029999999999998 with parameters: {'remove_pct': 7, 'add_pct': 0, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:23:20,204][0m Finished trial#59 with value: 0.8061000000000003 with parameters: {'remove_pct': 0, 'add_pct': 16, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:26:22,480][0m Finished trial#60 with value: 0.7855000000000001 with parameters: {'remove_pct': 11, 'add_pct': 9, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:29:31,639][0m Finished trial#61 with value: 0.8113666666666667 with parameters: {'remove_pct': 0, 'add_pct': 13, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:32:40,912][0m Finished trial#62 with value: 0.8104333333333334 with parameters: {'remove_pct': 0, 'add_pct': 12, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:35:45,835][0m Finished trial#63 with value: 0.8107 with parameters: {'remove_pct': 2, 'add_pct': 6, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:38:45,225][0m Finished trial#64 with value: 0.7991333333333335 with parameters: {'remove_pct': 6, 'add_pct': 3, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:41:52,146][0m Finished trial#65 with value: 0.8 with parameters: {'remove_pct': 3, 'add_pct': 18, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:44:57,228][0m Finished trial#66 with value: 0.7789999999999999 with parameters: {'remove_pct': 15, 'add_pct': 13, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:47:35,339][0m Finished trial#67 with value: 0.7200000000000001 with parameters: {'remove_pct': 58, 'add_pct': 9, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:50:48,696][0m Finished trial#68 with value: 0.7845333333333334 with parameters: {'remove_pct': 11, 'add_pct': 45, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:53:58,600][0m Finished trial#69 with value: 0.7891333333333334 with parameters: {'remove_pct': 8, 'add_pct': 27, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:56:53,144][0m Finished trial#70 with value: 0.7362000000000001 with parameters: {'remove_pct': 40, 'add_pct': 21, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 14:59:59,445][0m Finished trial#71 with value: 0.8120666666666667 with parameters: {'remove_pct': 2, 'add_pct': 6, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 15:03:05,476][0m Finished trial#72 with value: 0.8137666666666665 with parameters: {'remove_pct': 0, 'add_pct': 7, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 15:06:08,695][0m Finished trial#73 with value: 0.8074666666666667 with parameters: {'remove_pct': 2, 'add_pct': 2, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 15:09:11,797][0m Finished trial#74 with value: 0.8046333333333333 with parameters: {'remove_pct': 5, 'add_pct': 7, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 15:12:14,599][0m Finished trial#75 with value: 0.8088666666666666 with parameters: {'remove_pct': 1, 'add_pct': 10, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 15:15:32,924][0m Finished trial#76 with value: 0.8051333333333334 with parameters: {'remove_pct': 5, 'add_pct': 5, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 15:18:23,434][0m Finished trial#77 with value: 0.7753333333333333 with parameters: {'remove_pct': 19, 'add_pct': 0, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 15:21:34,956][0m Finished trial#78 with value: 0.8075666666666665 with parameters: {'remove_pct': 2, 'add_pct': 4, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 15:24:44,801][0m Finished trial#79 with value: 0.7956000000000002 with parameters: {'remove_pct': 8, 'add_pct': 8, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+[32m[I 2024-04-20 15:28:03,671][0m Finished trial#80 with value: 0.8078 with parameters: {'remove_pct': 0, 'add_pct': 11, 'dataset': 'cora', 'i': '1_cosine', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#44 with value: 0.8149999999999998.[0m
+Traceback (most recent call last):
+  File "optuna_GAugM.py", line 136, in <module>
+    study.optimize(test_gaugm, n_trials=200)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 331, in optimize
+    func, n_trials, timeout, catch, callbacks, gc_after_trial, None
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 626, in _optimize_sequential
+    self._run_trial_and_callbacks(func, catch, callbacks, gc_after_trial)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 656, in _run_trial_and_callbacks
+    trial = self._run_trial(func, catch, gc_after_trial)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 677, in _run_trial
+    result = func(trial)
+  File "optuna_GAugM.py", line 121, in test_gaugm
+    acc, _, _ = model.fit()
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 129, in fit
+    logits = self.model(self.G, features)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 239, in forward
+    h = layer(g, h)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 207, in forward
+    fn.sum(msg='m', out='h'))
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/graph.py", line 2747, in update_all
+    Runtime.run(prog)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/runtime/runtime.py", line 11, in run
+    exe.run()
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/runtime/ir/executor.py", line 1200, in run
+    out_map)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/backend/pytorch/tensor.py", line 429, in copy_reduce
+    return CopyReduce.apply(reducer, graph, target, in_data, out_data, out_size, in_map, out_map)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/backend/pytorch/tensor.py", line 387, in forward
+    graph, target, in_data_nd, out_data_nd, in_map[0], out_map[0])
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/kernel.py", line 372, in copy_reduce
+    X, out, X_rows, out_rows)
+KeyboardInterrupt

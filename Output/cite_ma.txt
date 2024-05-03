@@ -1,0 +1,36 @@
+2024-04-27 15:51:40,516 - start
+[32m[I 2024-04-27 15:57:57,729][0m Finished trial#0 with value: 0.7033666666666666 with parameters: {'remove_pct': 10, 'add_pct': 34, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:05:15,386][0m Finished trial#1 with value: 0.6771666666666666 with parameters: {'remove_pct': 45, 'add_pct': 80, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:10:45,699][0m Finished trial#2 with value: 0.6873333333333335 with parameters: {'remove_pct': 31, 'add_pct': 49, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:15:33,527][0m Finished trial#3 with value: 0.6842333333333334 with parameters: {'remove_pct': 40, 'add_pct': 12, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:20:50,060][0m Finished trial#4 with value: 0.5602333333333334 with parameters: {'remove_pct': 77, 'add_pct': 49, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:26:11,892][0m Finished trial#5 with value: 0.6432000000000001 with parameters: {'remove_pct': 55, 'add_pct': 41, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:31:15,234][0m Finished trial#6 with value: 0.5746333333333333 with parameters: {'remove_pct': 77, 'add_pct': 19, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:36:16,507][0m Finished trial#7 with value: 0.698 with parameters: {'remove_pct': 15, 'add_pct': 11, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:40:58,807][0m Finished trial#8 with value: 0.6768333333333333 with parameters: {'remove_pct': 50, 'add_pct': 2, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:45:50,729][0m Finished trial#9 with value: 0.6628333333333334 with parameters: {'remove_pct': 49, 'add_pct': 13, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7033666666666666.[0m
+[32m[I 2024-04-27 16:52:06,394][0m Finished trial#10 with value: 0.7071333333333334 with parameters: {'remove_pct': 4, 'add_pct': 78, 'dataset': 'citeseer', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#10 with value: 0.7071333333333334.[0m
+Traceback (most recent call last):
+  File "optuna_GAugM.py", line 136, in <module>
+    logging.info('start')
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 331, in optimize
+    func, n_trials, timeout, catch, callbacks, gc_after_trial, None
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 626, in _optimize_sequential
+    self._run_trial_and_callbacks(func, catch, callbacks, gc_after_trial)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 656, in _run_trial_and_callbacks
+    trial = self._run_trial(func, catch, gc_after_trial)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 677, in _run_trial
+    result = func(trial)
+  File "optuna_GAugM.py", line 121, in test_gaugm
+    else:
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 129, in fit
+    logits = self.model(self.G, features)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 239, in forward
+    h = layer(g, h)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 202, in forward
+    h = torch.mm(h, self.weight)
+KeyboardInterrupt

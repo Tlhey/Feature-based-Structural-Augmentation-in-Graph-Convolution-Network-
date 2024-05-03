@@ -1,0 +1,75 @@
+2024-04-25 17:49:41,229 - start
+[32m[I 2024-04-25 18:20:17,600][0m Finished trial#0 with value: 0.7174546454095656 with parameters: {'remove_pct': 77, 'add_pct': 29, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7174546454095656.[0m
+[32m[I 2024-04-25 18:55:12,183][0m Finished trial#1 with value: 0.7624060839288986 with parameters: {'remove_pct': 13, 'add_pct': 7, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#1 with value: 0.7624060839288986.[0m
+[32m[I 2024-04-25 19:39:33,305][0m Finished trial#2 with value: 0.7421660252886201 with parameters: {'remove_pct': 19, 'add_pct': 50, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#1 with value: 0.7624060839288986.[0m
+[32m[I 2024-04-25 20:09:23,814][0m Finished trial#3 with value: 0.7704874473153747 with parameters: {'remove_pct': 34, 'add_pct': 6, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-25 20:50:08,587][0m Finished trial#4 with value: 0.7393439618838189 with parameters: {'remove_pct': 32, 'add_pct': 47, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-25 21:30:57,193][0m Finished trial#5 with value: 0.7039582188015392 with parameters: {'remove_pct': 59, 'add_pct': 50, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-25 22:10:05,205][0m Finished trial#6 with value: 0.7174546454095658 with parameters: {'remove_pct': 52, 'add_pct': 46, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-25 22:42:07,296][0m Finished trial#7 with value: 0.7580172255818217 with parameters: {'remove_pct': 25, 'add_pct': 14, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-25 23:20:59,886][0m Finished trial#8 with value: 0.7527212754260583 with parameters: {'remove_pct': 0, 'add_pct': 19, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-25 23:54:42,843][0m Finished trial#9 with value: 0.7206615356422943 with parameters: {'remove_pct': 67, 'add_pct': 35, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-26 00:46:02,329][0m Finished trial#10 with value: 0.7249496060106285 with parameters: {'remove_pct': 45, 'add_pct': 66, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-26 01:23:21,032][0m Finished trial#11 with value: 0.7619021440351841 with parameters: {'remove_pct': 7, 'add_pct': 8, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-26 01:58:44,887][0m Finished trial#12 with value: 0.7660069635330767 with parameters: {'remove_pct': 10, 'add_pct': 0, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#3 with value: 0.7704874473153747.[0m
+[32m[I 2024-04-26 02:26:41,163][0m Finished trial#13 with value: 0.7740700018325086 with parameters: {'remove_pct': 37, 'add_pct': 1, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#13 with value: 0.7740700018325086.[0m
+[32m[I 2024-04-26 02:54:40,961][0m Finished trial#14 with value: 0.7799431922301631 with parameters: {'remove_pct': 37, 'add_pct': 0, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#14 with value: 0.7799431922301631.[0m
+[32m[I 2024-04-26 03:24:15,921][0m Finished trial#15 with value: 0.7457669048927984 with parameters: {'remove_pct': 42, 'add_pct': 23, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#14 with value: 0.7799431922301631.[0m
+[32m[I 2024-04-26 04:18:50,229][0m Finished trial#16 with value: 0.7304379695803555 with parameters: {'remove_pct': 29, 'add_pct': 76, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#14 with value: 0.7799431922301631.[0m
+[32m[I 2024-04-26 04:43:10,651][0m Finished trial#17 with value: 0.7958218801539306 with parameters: {'remove_pct': 52, 'add_pct': 0, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#17 with value: 0.7958218801539306.[0m
+[32m[I 2024-04-26 05:08:37,573][0m Finished trial#18 with value: 0.758392889866227 with parameters: {'remove_pct': 54, 'add_pct': 15, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#17 with value: 0.7958218801539306.[0m
+[32m[I 2024-04-26 05:53:22,284][0m Finished trial#19 with value: 0.6682884368700751 with parameters: {'remove_pct': 71, 'add_pct': 60, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#17 with value: 0.7958218801539306.[0m
+[32m[I 2024-04-26 06:24:07,083][0m Finished trial#20 with value: 0.7399486897562765 with parameters: {'remove_pct': 50, 'add_pct': 29, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#17 with value: 0.7958218801539306.[0m
+[32m[I 2024-04-26 06:51:23,393][0m Finished trial#21 with value: 0.7783763972878873 with parameters: {'remove_pct': 40, 'add_pct': 0, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#17 with value: 0.7958218801539306.[0m
+[32m[I 2024-04-26 07:14:11,049][0m Finished trial#22 with value: 0.8002565512186183 with parameters: {'remove_pct': 59, 'add_pct': 0, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#22 with value: 0.8002565512186183.[0m
+[32m[I 2024-04-26 07:37:41,211][0m Finished trial#23 with value: 0.7694337548103352 with parameters: {'remove_pct': 60, 'add_pct': 11, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#22 with value: 0.8002565512186183.[0m
+[32m[I 2024-04-26 07:59:48,917][0m Finished trial#24 with value: 0.8067069818581637 with parameters: {'remove_pct': 62, 'add_pct': 0, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 08:25:20,833][0m Finished trial#25 with value: 0.7460601062855049 with parameters: {'remove_pct': 66, 'add_pct': 20, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 08:43:16,955][0m Finished trial#26 with value: 0.7834890965732089 with parameters: {'remove_pct': 77, 'add_pct': 3, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 09:06:59,947][0m Finished trial#27 with value: 0.7660527762506872 with parameters: {'remove_pct': 60, 'add_pct': 12, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 09:36:37,410][0m Finished trial#28 with value: 0.7418086860912589 with parameters: {'remove_pct': 49, 'add_pct': 26, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 10:00:02,680][0m Finished trial#29 with value: 0.7529869891881987 with parameters: {'remove_pct': 79, 'add_pct': 17, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 10:34:04,213][0m Finished trial#30 with value: 0.7009254168957303 with parameters: {'remove_pct': 72, 'add_pct': 38, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 10:53:02,564][0m Finished trial#31 with value: 0.7865493861095839 with parameters: {'remove_pct': 75, 'add_pct': 5, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 11:14:41,604][0m Finished trial#32 with value: 0.7777350192413415 with parameters: {'remove_pct': 65, 'add_pct': 6, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 11:38:17,594][0m Finished trial#33 with value: 0.7747938427707531 with parameters: {'remove_pct': 56, 'add_pct': 5, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 11:58:43,301][0m Finished trial#34 with value: 0.7820597397837641 with parameters: {'remove_pct': 75, 'add_pct': 10, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#24 with value: 0.8067069818581637.[0m
+[32m[I 2024-04-26 12:21:05,375][0m Finished trial#35 with value: 0.8068902327286054 with parameters: {'remove_pct': 62, 'add_pct': 0, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#35 with value: 0.8068902327286054.[0m
+[32m[I 2024-04-26 12:49:16,607][0m Finished trial#36 with value: 0.7888308594465823 with parameters: {'remove_pct': 47, 'add_pct': 0, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#35 with value: 0.8068902327286054.[0m
+[32m[I 2024-04-26 13:14:06,124][0m Finished trial#37 with value: 0.771513652189848 with parameters: {'remove_pct': 63, 'add_pct': 9, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#35 with value: 0.8068902327286054.[0m
+Traceback (most recent call last):
+  File "optuna_GAugM.py", line 136, in <module>
+    study.optimize(test_gaugm, n_trials=200)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 331, in optimize
+    func, n_trials, timeout, catch, callbacks, gc_after_trial, None
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 626, in _optimize_sequential
+    self._run_trial_and_callbacks(func, catch, callbacks, gc_after_trial)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 656, in _run_trial_and_callbacks
+    trial = self._run_trial(func, catch, gc_after_trial)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 677, in _run_trial
+    result = func(trial)
+  File "optuna_GAugM.py", line 121, in test_gaugm
+    acc, _, _ = model.fit()
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 129, in fit
+    logits = self.model(self.G, features)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 239, in forward
+    h = layer(g, h)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 207, in forward
+    fn.sum(msg='m', out='h'))
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/graph.py", line 2747, in update_all
+    Runtime.run(prog)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/runtime/runtime.py", line 11, in run
+    exe.run()
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/runtime/ir/executor.py", line 1200, in run
+    out_map)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/backend/pytorch/tensor.py", line 429, in copy_reduce
+    return CopyReduce.apply(reducer, graph, target, in_data, out_data, out_size, in_map, out_map)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/backend/pytorch/tensor.py", line 387, in forward
+    graph, target, in_data_nd, out_data_nd, in_map[0], out_map[0])
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/dgl/kernel.py", line 372, in copy_reduce
+    X, out, X_rows, out_rows)
+KeyboardInterrupt

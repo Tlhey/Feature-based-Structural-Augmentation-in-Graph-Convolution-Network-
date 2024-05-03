@@ -1,0 +1,36 @@
+2024-04-27 01:35:58,013 - start
+[32m[I 2024-04-27 02:33:14,669][0m Finished trial#0 with value: 0.7474803005314274 with parameters: {'remove_pct': 11, 'add_pct': 42, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7474803005314274.[0m
+[32m[I 2024-04-27 03:38:34,654][0m Finished trial#1 with value: 0.6918819864394355 with parameters: {'remove_pct': 63, 'add_pct': 62, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7474803005314274.[0m
+[32m[I 2024-04-27 04:54:11,984][0m Finished trial#2 with value: 0.7285962983324171 with parameters: {'remove_pct': 31, 'add_pct': 74, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7474803005314274.[0m
+[32m[I 2024-04-27 05:38:35,352][0m Finished trial#3 with value: 0.7458585303280191 with parameters: {'remove_pct': 37, 'add_pct': 25, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7474803005314274.[0m
+[32m[I 2024-04-27 06:52:28,970][0m Finished trial#4 with value: 0.7410848451530145 with parameters: {'remove_pct': 14, 'add_pct': 69, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7474803005314274.[0m
+[32m[I 2024-04-27 07:32:15,411][0m Finished trial#5 with value: 0.7470313358988456 with parameters: {'remove_pct': 49, 'add_pct': 20, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7474803005314274.[0m
+[32m[I 2024-04-27 08:32:11,463][0m Finished trial#6 with value: 0.7316840754993585 with parameters: {'remove_pct': 40, 'add_pct': 49, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7474803005314274.[0m
+[32m[I 2024-04-27 09:19:02,700][0m Finished trial#7 with value: 0.716602528862012 with parameters: {'remove_pct': 75, 'add_pct': 35, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7474803005314274.[0m
+[32m[I 2024-04-27 10:12:15,034][0m Finished trial#8 with value: 0.7546454095656955 with parameters: {'remove_pct': 1, 'add_pct': 14, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#8 with value: 0.7546454095656955.[0m
+[32m[I 2024-04-27 11:02:58,558][0m Finished trial#9 with value: 0.7310518599963348 with parameters: {'remove_pct': 43, 'add_pct': 38, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#8 with value: 0.7546454095656955.[0m
+[32m[I 2024-04-27 11:55:06,783][0m Finished trial#10 with value: 0.7508796041781197 with parameters: {'remove_pct': 0, 'add_pct': 2, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#8 with value: 0.7546454095656955.[0m
+[32m[I 2024-04-27 12:49:35,646][0m Finished trial#11 with value: 0.7512002932013928 with parameters: {'remove_pct': 1, 'add_pct': 1, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#8 with value: 0.7546454095656955.[0m
+[32m[I 2024-04-27 13:45:37,490][0m Finished trial#12 with value: 0.751914971596115 with parameters: {'remove_pct': 0, 'add_pct': 7, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#8 with value: 0.7546454095656955.[0m
+[32m[I 2024-04-27 14:41:13,777][0m Finished trial#13 with value: 0.7579347626901229 with parameters: {'remove_pct': 20, 'add_pct': 18, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#13 with value: 0.7579347626901229.[0m
+[32m[I 2024-04-27 15:32:11,295][0m Finished trial#14 with value: 0.7571009712296134 with parameters: {'remove_pct': 21, 'add_pct': 16, 'dataset': 'blogcatalog', 'i': '1_manhattan', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#13 with value: 0.7579347626901229.[0m
+Traceback (most recent call last):
+  File "optuna_GAugM.py", line 136, in <module>
+    study.optimize(test_gaugm, n_trials=200)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 331, in optimize
+    func, n_trials, timeout, catch, callbacks, gc_after_trial, None
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 626, in _optimize_sequential
+    self._run_trial_and_callbacks(func, catch, callbacks, gc_after_trial)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 656, in _run_trial_and_callbacks
+    trial = self._run_trial(func, catch, gc_after_trial)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/optuna/study.py", line 677, in _run_trial
+    result = func(trial)
+  File "optuna_GAugM.py", line 121, in test_gaugm
+    acc, _, _ = model.fit()
+  File "/home/tlhey/Tlhey/309_proj/GAug/models/GCN_dgl.py", line 134, in fit
+    l.backward()
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/torch/tensor.py", line 195, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph)
+  File "/home/tlhey/miniconda3/envs/GAug_env/lib/python3.7/site-packages/torch/autograd/__init__.py", line 99, in backward
+    allow_unreachable=True)  # allow_unreachable flag
+KeyboardInterrupt

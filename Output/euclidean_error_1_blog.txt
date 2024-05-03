@@ -1,0 +1,4 @@
+2024-04-23 23:03:44,272 - start
+[32m[I 2024-04-24 00:06:47,522][0m Finished trial#0 with value: 0.7402418911489829 with parameters: {'remove_pct': 13, 'add_pct': 57, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7402418911489829.[0m
+[32m[I 2024-04-24 00:48:46,208][0m Finished trial#1 with value: 0.7559464907458311 with parameters: {'remove_pct': 29, 'add_pct': 17, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#1 with value: 0.7559464907458311.[0m
+[32m[I 2024-04-24 01:49:13,153][0m Finished trial#2 with value: 0.6975902510536925 with parameters: {'remove_pct': 60, 'add_pct': 58, 'dataset': 'blogcatalog', 'i': '1_euclidean', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#1 with value: 0.7559464907458311.[0m

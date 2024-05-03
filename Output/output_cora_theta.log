@@ -1,0 +1,611 @@
+2024-04-20 02:04:29,682 - start
+[32m[I 2024-04-20 02:06:55,254][0m Finished trial#0 with value: 0.7080999999999998 with parameters: {'remove_pct': 59, 'add_pct': 12, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#0 with value: 0.7080999999999998.[0m
+[32m[I 2024-04-20 02:09:33,488][0m Finished trial#1 with value: 0.7230666666666666 with parameters: {'remove_pct': 44, 'add_pct': 42, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#1 with value: 0.7230666666666666.[0m
+[32m[I 2024-04-20 02:12:06,840][0m Finished trial#2 with value: 0.7488666666666666 with parameters: {'remove_pct': 29, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.7488666666666666.[0m
+[32m[I 2024-04-20 02:14:49,834][0m Finished trial#3 with value: 0.6849 with parameters: {'remove_pct': 59, 'add_pct': 61, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#2 with value: 0.7488666666666666.[0m
+[32m[I 2024-04-20 02:17:24,302][0m Finished trial#4 with value: 0.7722666666666667 with parameters: {'remove_pct': 19, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#4 with value: 0.7722666666666667.[0m
+[32m[I 2024-04-20 02:20:05,072][0m Finished trial#5 with value: 0.7840333333333334 with parameters: {'remove_pct': 12, 'add_pct': 12, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#5 with value: 0.7840333333333334.[0m
+[32m[I 2024-04-20 02:22:38,682][0m Finished trial#6 with value: 0.6891 with parameters: {'remove_pct': 60, 'add_pct': 34, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#5 with value: 0.7840333333333334.[0m
+[32m[I 2024-04-20 02:25:25,395][0m Finished trial#7 with value: 0.6681666666666667 with parameters: {'remove_pct': 64, 'add_pct': 78, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#5 with value: 0.7840333333333334.[0m
+[32m[I 2024-04-20 02:28:03,434][0m Finished trial#8 with value: 0.7752666666666667 with parameters: {'remove_pct': 16, 'add_pct': 10, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#5 with value: 0.7840333333333334.[0m
+[32m[I 2024-04-20 02:30:45,806][0m Finished trial#9 with value: 0.8134666666666667 with parameters: {'remove_pct': 1, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:33:32,873][0m Finished trial#10 with value: 0.7963999999999999 with parameters: {'remove_pct': 4, 'add_pct': 29, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:36:23,359][0m Finished trial#11 with value: 0.7984666666666665 with parameters: {'remove_pct': 0, 'add_pct': 30, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:39:12,706][0m Finished trial#12 with value: 0.7989333333333335 with parameters: {'remove_pct': 3, 'add_pct': 26, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:41:37,577][0m Finished trial#13 with value: 0.6612000000000001 with parameters: {'remove_pct': 79, 'add_pct': 21, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:44:30,812][0m Finished trial#14 with value: 0.8032 with parameters: {'remove_pct': 1, 'add_pct': 54, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:47:18,671][0m Finished trial#15 with value: 0.7431999999999999 with parameters: {'remove_pct': 29, 'add_pct': 53, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:50:12,927][0m Finished trial#16 with value: 0.7412 with parameters: {'remove_pct': 28, 'add_pct': 69, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:53:06,157][0m Finished trial#17 with value: 0.7860333333333335 with parameters: {'remove_pct': 10, 'add_pct': 50, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:55:47,680][0m Finished trial#18 with value: 0.7267333333333335 with parameters: {'remove_pct': 43, 'add_pct': 44, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 02:58:48,369][0m Finished trial#19 with value: 0.7969666666666666 with parameters: {'remove_pct': 1, 'add_pct': 65, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:01:50,179][0m Finished trial#20 with value: 0.7533999999999998 with parameters: {'remove_pct': 22, 'add_pct': 78, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:04:38,835][0m Finished trial#21 with value: 0.7945666666666669 with parameters: {'remove_pct': 6, 'add_pct': 19, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:07:29,326][0m Finished trial#22 with value: 0.8022000000000001 with parameters: {'remove_pct': 3, 'add_pct': 23, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:10:29,300][0m Finished trial#23 with value: 0.7866 with parameters: {'remove_pct': 9, 'add_pct': 38, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:13:19,700][0m Finished trial#24 with value: 0.7730999999999999 with parameters: {'remove_pct': 14, 'add_pct': 54, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:16:10,730][0m Finished trial#25 with value: 0.8076333333333333 with parameters: {'remove_pct': 0, 'add_pct': 20, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:18:34,320][0m Finished trial#26 with value: 0.7630666666666667 with parameters: {'remove_pct': 24, 'add_pct': 1, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:21:05,053][0m Finished trial#27 with value: 0.7495999999999999 with parameters: {'remove_pct': 35, 'add_pct': 16, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:23:59,193][0m Finished trial#28 with value: 0.8134666666666667 with parameters: {'remove_pct': 0, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:26:28,119][0m Finished trial#29 with value: 0.7344333333333333 with parameters: {'remove_pct': 49, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:29:07,919][0m Finished trial#30 with value: 0.7957000000000001 with parameters: {'remove_pct': 9, 'add_pct': 14, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#9 with value: 0.8134666666666667.[0m
+[32m[I 2024-04-20 03:31:46,172][0m Finished trial#31 with value: 0.8175000000000001 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:34:27,527][0m Finished trial#32 with value: 0.8168666666666665 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:37:09,374][0m Finished trial#33 with value: 0.8017000000000001 with parameters: {'remove_pct': 7, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:39:48,185][0m Finished trial#34 with value: 0.7779333333333334 with parameters: {'remove_pct': 17, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:42:32,061][0m Finished trial#35 with value: 0.8162666666666666 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:45:09,077][0m Finished trial#36 with value: 0.7907000000000001 with parameters: {'remove_pct': 12, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:47:48,660][0m Finished trial#37 with value: 0.8013333333333333 with parameters: {'remove_pct': 6, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:50:26,662][0m Finished trial#38 with value: 0.7709666666666666 with parameters: {'remove_pct': 20, 'add_pct': 12, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:52:58,342][0m Finished trial#39 with value: 0.6721333333333335 with parameters: {'remove_pct': 75, 'add_pct': 16, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:55:39,696][0m Finished trial#40 with value: 0.7775666666666666 with parameters: {'remove_pct': 14, 'add_pct': 11, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 03:58:20,700][0m Finished trial#41 with value: 0.8159 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:01:02,419][0m Finished trial#42 with value: 0.8161666666666666 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:03:43,466][0m Finished trial#43 with value: 0.7996333333333335 with parameters: {'remove_pct': 6, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:06:22,946][0m Finished trial#44 with value: 0.8173666666666668 with parameters: {'remove_pct': 0, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:09:02,929][0m Finished trial#45 with value: 0.8009333333333334 with parameters: {'remove_pct': 5, 'add_pct': 1, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:11:30,830][0m Finished trial#46 with value: 0.7264333333333334 with parameters: {'remove_pct': 50, 'add_pct': 10, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:14:17,697][0m Finished trial#47 with value: 0.7895666666666669 with parameters: {'remove_pct': 11, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:17:00,591][0m Finished trial#48 with value: 0.8024333333333333 with parameters: {'remove_pct': 3, 'add_pct': 15, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:19:35,767][0m Finished trial#49 with value: 0.7776666666666666 with parameters: {'remove_pct': 17, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:22:16,512][0m Finished trial#50 with value: 0.8123666666666666 with parameters: {'remove_pct': 0, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:24:55,013][0m Finished trial#51 with value: 0.8039666666666665 with parameters: {'remove_pct': 3, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:27:35,628][0m Finished trial#52 with value: 0.7933333333333333 with parameters: {'remove_pct': 8, 'add_pct': 10, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:30:12,653][0m Finished trial#53 with value: 0.8150666666666665 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:32:59,787][0m Finished trial#54 with value: 0.8065666666666667 with parameters: {'remove_pct': 0, 'add_pct': 18, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:35:45,068][0m Finished trial#55 with value: 0.8016 with parameters: {'remove_pct': 3, 'add_pct': 23, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:38:26,805][0m Finished trial#56 with value: 0.7866333333333334 with parameters: {'remove_pct': 12, 'add_pct': 13, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:41:12,048][0m Finished trial#57 with value: 0.8017666666666666 with parameters: {'remove_pct': 5, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:43:51,779][0m Finished trial#58 with value: 0.7947333333333333 with parameters: {'remove_pct': 9, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:46:37,164][0m Finished trial#59 with value: 0.8059999999999998 with parameters: {'remove_pct': 3, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:49:22,723][0m Finished trial#60 with value: 0.8057333333333332 with parameters: {'remove_pct': 0, 'add_pct': 26, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:52:04,210][0m Finished trial#61 with value: 0.8165333333333333 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:54:45,383][0m Finished trial#62 with value: 0.8157000000000002 with parameters: {'remove_pct': 0, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 04:57:28,669][0m Finished trial#63 with value: 0.8030999999999999 with parameters: {'remove_pct': 3, 'add_pct': 11, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:00:06,113][0m Finished trial#64 with value: 0.8003666666666668 with parameters: {'remove_pct': 7, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:02:42,278][0m Finished trial#65 with value: 0.7844333333333335 with parameters: {'remove_pct': 14, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:05:06,661][0m Finished trial#66 with value: 0.6866 with parameters: {'remove_pct': 70, 'add_pct': 17, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:07:55,162][0m Finished trial#67 with value: 0.8072333333333334 with parameters: {'remove_pct': 2, 'add_pct': 13, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:10:37,405][0m Finished trial#68 with value: 0.7881666666666667 with parameters: {'remove_pct': 10, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:13:19,390][0m Finished trial#69 with value: 0.7992666666666669 with parameters: {'remove_pct': 5, 'add_pct': 10, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:15:52,282][0m Finished trial#70 with value: 0.7592000000000001 with parameters: {'remove_pct': 26, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:18:27,530][0m Finished trial#71 with value: 0.754 with parameters: {'remove_pct': 34, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:21:10,882][0m Finished trial#72 with value: 0.8166333333333335 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:23:51,858][0m Finished trial#73 with value: 0.8129333333333334 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:26:32,815][0m Finished trial#74 with value: 0.8019666666666668 with parameters: {'remove_pct': 7, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:29:13,351][0m Finished trial#75 with value: 0.8080333333333333 with parameters: {'remove_pct': 2, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:31:54,347][0m Finished trial#76 with value: 0.7964666666666669 with parameters: {'remove_pct': 5, 'add_pct': 13, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:34:34,108][0m Finished trial#77 with value: 0.7981666666666669 with parameters: {'remove_pct': 8, 'add_pct': 9, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:37:11,706][0m Finished trial#78 with value: 0.8092666666666666 with parameters: {'remove_pct': 2, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:40:01,160][0m Finished trial#79 with value: 0.8016666666666665 with parameters: {'remove_pct': 0, 'add_pct': 35, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:42:38,788][0m Finished trial#80 with value: 0.8039333333333334 with parameters: {'remove_pct': 5, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:45:22,263][0m Finished trial#81 with value: 0.8126333333333331 with parameters: {'remove_pct': 0, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:48:02,377][0m Finished trial#82 with value: 0.8079999999999999 with parameters: {'remove_pct': 2, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:50:45,298][0m Finished trial#83 with value: 0.7993333333333333 with parameters: {'remove_pct': 4, 'add_pct': 15, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:53:27,945][0m Finished trial#84 with value: 0.8086333333333332 with parameters: {'remove_pct': 0, 'add_pct': 11, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:56:05,761][0m Finished trial#85 with value: 0.8009666666666668 with parameters: {'remove_pct': 7, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 05:58:43,225][0m Finished trial#86 with value: 0.7891 with parameters: {'remove_pct': 10, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:01:26,229][0m Finished trial#87 with value: 0.8034333333333333 with parameters: {'remove_pct': 4, 'add_pct': 9, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:04:03,407][0m Finished trial#88 with value: 0.7885333333333335 with parameters: {'remove_pct': 12, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:06:45,465][0m Finished trial#89 with value: 0.8140333333333334 with parameters: {'remove_pct': 1, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:09:25,864][0m Finished trial#90 with value: 0.8087000000000001 with parameters: {'remove_pct': 2, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:12:04,654][0m Finished trial#91 with value: 0.8128666666666666 with parameters: {'remove_pct': 1, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:14:44,180][0m Finished trial#92 with value: 0.8114333333333335 with parameters: {'remove_pct': 0, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:17:25,244][0m Finished trial#93 with value: 0.8021666666666667 with parameters: {'remove_pct': 4, 'add_pct': 9, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:20:04,547][0m Finished trial#94 with value: 0.7999333333333335 with parameters: {'remove_pct': 7, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:23:06,857][0m Finished trial#95 with value: 0.7897666666666666 with parameters: {'remove_pct': 0, 'add_pct': 75, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:25:30,429][0m Finished trial#96 with value: 0.6990999999999997 with parameters: {'remove_pct': 60, 'add_pct': 11, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:28:19,875][0m Finished trial#97 with value: 0.7964666666666669 with parameters: {'remove_pct': 5, 'add_pct': 44, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:30:59,104][0m Finished trial#98 with value: 0.8090333333333334 with parameters: {'remove_pct': 2, 'add_pct': 1, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:33:27,785][0m Finished trial#99 with value: 0.7127 with parameters: {'remove_pct': 57, 'add_pct': 14, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:36:07,348][0m Finished trial#100 with value: 0.7963 with parameters: {'remove_pct': 8, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:38:47,271][0m Finished trial#101 with value: 0.8111666666666666 with parameters: {'remove_pct': 1, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:41:26,399][0m Finished trial#102 with value: 0.8015666666666668 with parameters: {'remove_pct': 4, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:44:07,636][0m Finished trial#103 with value: 0.8137333333333334 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:46:47,044][0m Finished trial#104 with value: 0.8105666666666668 with parameters: {'remove_pct': 2, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:49:28,020][0m Finished trial#105 with value: 0.8018 with parameters: {'remove_pct': 6, 'add_pct': 9, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:52:07,030][0m Finished trial#106 with value: 0.8058333333333334 with parameters: {'remove_pct': 3, 'add_pct': 12, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:54:51,684][0m Finished trial#107 with value: 0.8131999999999999 with parameters: {'remove_pct': 1, 'add_pct': 1, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 06:57:33,839][0m Finished trial#108 with value: 0.7947000000000001 with parameters: {'remove_pct': 9, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:00:13,615][0m Finished trial#109 with value: 0.8011 with parameters: {'remove_pct': 6, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:02:54,452][0m Finished trial#110 with value: 0.8010666666666668 with parameters: {'remove_pct': 4, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:05:34,830][0m Finished trial#111 with value: 0.8135333333333334 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:08:16,042][0m Finished trial#112 with value: 0.8160333333333333 with parameters: {'remove_pct': 0, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:10:54,316][0m Finished trial#113 with value: 0.8110999999999999 with parameters: {'remove_pct': 2, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:13:35,526][0m Finished trial#114 with value: 0.8159666666666666 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:16:16,980][0m Finished trial#115 with value: 0.8109000000000001 with parameters: {'remove_pct': 0, 'add_pct': 9, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:18:59,436][0m Finished trial#116 with value: 0.8082 with parameters: {'remove_pct': 3, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:21:38,735][0m Finished trial#117 with value: 0.7978666666666666 with parameters: {'remove_pct': 5, 'add_pct': 11, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:24:08,942][0m Finished trial#118 with value: 0.7564333333333333 with parameters: {'remove_pct': 39, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:26:54,998][0m Finished trial#119 with value: 0.8120666666666667 with parameters: {'remove_pct': 0, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:29:38,144][0m Finished trial#120 with value: 0.8083333333333335 with parameters: {'remove_pct': 3, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:32:18,445][0m Finished trial#121 with value: 0.8113666666666668 with parameters: {'remove_pct': 1, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:34:58,089][0m Finished trial#122 with value: 0.8126999999999999 with parameters: {'remove_pct': 0, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:37:54,390][0m Finished trial#123 with value: 0.7955666666666666 with parameters: {'remove_pct': 2, 'add_pct': 60, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:40:33,944][0m Finished trial#124 with value: 0.8024333333333333 with parameters: {'remove_pct': 6, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:43:13,389][0m Finished trial#125 with value: 0.8034666666666666 with parameters: {'remove_pct': 4, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:45:56,630][0m Finished trial#126 with value: 0.8135333333333333 with parameters: {'remove_pct': 0, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:48:34,656][0m Finished trial#127 with value: 0.8063999999999999 with parameters: {'remove_pct': 2, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:51:11,151][0m Finished trial#128 with value: 0.7977333333333333 with parameters: {'remove_pct': 8, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:53:52,313][0m Finished trial#129 with value: 0.8119999999999999 with parameters: {'remove_pct': 0, 'add_pct': 12, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 07:58:05,325][0m Finished trial#130 with value: 0.8027333333333332 with parameters: {'remove_pct': 4, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:03:36,194][0m Finished trial#131 with value: 0.8126 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>[32m[I 2024-04-20 08:09:13,482][0m Finished trial#132 with value: 0.8073666666666666 with parameters: {'remove_pct': 2, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:14:47,997][0m Finished trial#133 with value: 0.8086333333333333 with parameters: {'remove_pct': 0, 'add_pct': 10, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:20:15,771][0m Finished trial#134 with value: 0.8122 with parameters: {'remove_pct': 1, 'add_pct': 1, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:25:59,936][0m Finished trial#135 with value: 0.8014000000000002 with parameters: {'remove_pct': 4, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:31:44,658][0m Finished trial#136 with value: 0.8015666666666668 with parameters: {'remove_pct': 6, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:37:24,221][0m Finished trial#137 with value: 0.8095333333333332 with parameters: {'remove_pct': 2, 'add_pct': 9, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:43:05,253][0m Finished trial#138 with value: 0.8139 with parameters: {'remove_pct': 0, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:48:38,984][0m Finished trial#139 with value: 0.8066333333333333 with parameters: {'remove_pct': 3, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:54:11,822][0m Finished trial#140 with value: 0.8112 with parameters: {'remove_pct': 0, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 08:59:47,232][0m Finished trial#141 with value: 0.8150666666666667 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:05:08,173][0m Finished trial#142 with value: 0.8121999999999999 with parameters: {'remove_pct': 1, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:10:32,229][0m Finished trial#143 with value: 0.8022333333333334 with parameters: {'remove_pct': 5, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:15:49,888][0m Finished trial#144 with value: 0.8056333333333335 with parameters: {'remove_pct': 2, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:21:13,625][0m Finished trial#145 with value: 0.8173 with parameters: {'remove_pct': 0, 'add_pct': 1, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:26:41,984][0m Finished trial#146 with value: 0.8042 with parameters: {'remove_pct': 4, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:32:27,707][0m Finished trial#147 with value: 0.8128666666666666 with parameters: {'remove_pct': 2, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:37:52,862][0m Finished trial#148 with value: 0.8146333333333332 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:43:20,498][0m Finished trial#149 with value: 0.8017000000000001 with parameters: {'remove_pct': 7, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:48:53,808][0m Finished trial#150 with value: 0.8097333333333333 with parameters: {'remove_pct': 0, 'add_pct': 10, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 09:54:32,217][0m Finished trial#151 with value: 0.8069000000000001 with parameters: {'remove_pct': 3, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:00:03,757][0m Finished trial#152 with value: 0.8135333333333334 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:05:40,440][0m Finished trial#153 with value: 0.8121333333333333 with parameters: {'remove_pct': 1, 'add_pct': 1, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:11:07,420][0m Finished trial#154 with value: 0.8050333333333335 with parameters: {'remove_pct': 3, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:16:36,506][0m Finished trial#155 with value: 0.7998666666666666 with parameters: {'remove_pct': 5, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:22:12,055][0m Finished trial#156 with value: 0.8170666666666668 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:27:43,269][0m Finished trial#157 with value: 0.8144333333333333 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:33:06,427][0m Finished trial#158 with value: 0.8110666666666667 with parameters: {'remove_pct': 2, 'add_pct': 9, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:38:29,149][0m Finished trial#159 with value: 0.8129333333333333 with parameters: {'remove_pct': 0, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:43:53,382][0m Finished trial#160 with value: 0.8023333333333333 with parameters: {'remove_pct': 4, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:49:12,241][0m Finished trial#161 with value: 0.8157999999999999 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:54:29,432][0m Finished trial#162 with value: 0.8112999999999999 with parameters: {'remove_pct': 2, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 10:59:51,700][0m Finished trial#163 with value: 0.8135666666666667 with parameters: {'remove_pct': 0, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:05:21,646][0m Finished trial#164 with value: 0.8124666666666667 with parameters: {'remove_pct': 0, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:10:54,563][0m Finished trial#165 with value: 0.8074333333333333 with parameters: {'remove_pct': 2, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:16:03,042][0m Finished trial#166 with value: 0.8050999999999998 with parameters: {'remove_pct': 4, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:21:29,812][0m Finished trial#167 with value: 0.8084000000000001 with parameters: {'remove_pct': 0, 'add_pct': 11, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:27:04,856][0m Finished trial#168 with value: 0.8063999999999999 with parameters: {'remove_pct': 6, 'add_pct': 1, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:32:28,803][0m Finished trial#169 with value: 0.8117 with parameters: {'remove_pct': 2, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:37:38,157][0m Finished trial#170 with value: 0.7408333333333332 with parameters: {'remove_pct': 47, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:43:11,658][0m Finished trial#171 with value: 0.8127666666666666 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:48:34,383][0m Finished trial#172 with value: 0.8166666666666668 with parameters: {'remove_pct': 0, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:54:04,435][0m Finished trial#173 with value: 0.8046333333333333 with parameters: {'remove_pct': 3, 'add_pct': 2, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 11:59:37,539][0m Finished trial#174 with value: 0.8174333333333335 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:05:02,073][0m Finished trial#175 with value: 0.8073666666666666 with parameters: {'remove_pct': 2, 'add_pct': 10, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:10:33,663][0m Finished trial#176 with value: 0.8170333333333332 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:15:59,463][0m Finished trial#177 with value: 0.8126333333333332 with parameters: {'remove_pct': 1, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:21:11,998][0m Finished trial#178 with value: 0.7996333333333335 with parameters: {'remove_pct': 4, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:26:39,872][0m Finished trial#179 with value: 0.8121666666666666 with parameters: {'remove_pct': 0, 'add_pct': 9, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:31:38,492][0m Finished trial#180 with value: 0.7535666666666666 with parameters: {'remove_pct': 31, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:36:54,874][0m Finished trial#181 with value: 0.8112999999999999 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:42:06,529][0m Finished trial#182 with value: 0.8096999999999999 with parameters: {'remove_pct': 2, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:47:22,853][0m Finished trial#183 with value: 0.8154000000000001 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:52:11,438][0m Finished trial#184 with value: 0.6777666666666669 with parameters: {'remove_pct': 78, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 12:57:29,642][0m Finished trial#185 with value: 0.8093 with parameters: {'remove_pct': 2, 'add_pct': 0, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:02:49,178][0m Finished trial#186 with value: 0.8110333333333333 with parameters: {'remove_pct': 0, 'add_pct': 3, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:08:12,079][0m Finished trial#187 with value: 0.8094666666666667 with parameters: {'remove_pct': 3, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:13:10,170][0m Finished trial#188 with value: 0.7085000000000001 with parameters: {'remove_pct': 64, 'add_pct': 5, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:18:28,912][0m Finished trial#189 with value: 0.8148333333333333 with parameters: {'remove_pct': 1, 'add_pct': 1, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:24:05,337][0m Finished trial#190 with value: 0.7988666666666666 with parameters: {'remove_pct': 5, 'add_pct': 7, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:29:25,679][0m Finished trial#191 with value: 0.8120999999999998 with parameters: {'remove_pct': 0, 'add_pct': 4, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:34:58,350][0m Finished trial#192 with value: 0.8158333333333334 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:40:28,700][0m Finished trial#193 with value: 0.8159666666666667 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:45:48,999][0m Finished trial#194 with value: 0.8069666666666666 with parameters: {'remove_pct': 2, 'add_pct': 10, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:51:21,658][0m Finished trial#195 with value: 0.8174 with parameters: {'remove_pct': 0, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 13:56:47,140][0m Finished trial#196 with value: 0.8098333333333334 with parameters: {'remove_pct': 3, 'add_pct': 8, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 14:02:25,320][0m Finished trial#197 with value: 0.8144666666666666 with parameters: {'remove_pct': 1, 'add_pct': 6, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 14:07:54,745][0m Finished trial#198 with value: 0.8050333333333332 with parameters: {'remove_pct': 0, 'add_pct': 32, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+[32m[I 2024-04-20 14:13:29,078][0m Finished trial#199 with value: 0.7993666666666669 with parameters: {'remove_pct': 4, 'add_pct': 13, 'dataset': 'cora', 'i': '2', 'gnn': 'gcn', 'eval_orig': 0}. Best is trial#31 with value: 0.8175000000000001.[0m
+
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+<class 'scipy.sparse.csr.csr_matrix'>
+<class 'numpy.ndarray'>
+Number of finished trials:  200
+Best trial:
+  Value:  0.8175000000000001
+  Params: 
+    remove_pct: 0
+    add_pct: 6
+    dataset: cora
+    i: 2
+    gnn: gcn
+    eval_orig: 0
