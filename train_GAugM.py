@@ -51,8 +51,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='single')
     parser.add_argument('--dataset', type=str, default='cora')
     parser.add_argument('--gnn', type=str, default='gcn')
-    parser.add_argument('--gpu', type=str, default='0')
-    parser.add_argument('--i', type=str, default='2')
+    parser.add_argument('--gpu', type=str, default='-1')
+    parser.add_argument('--i', type=str, default='1')
     args = parser.parse_args()
 
     if args.gpu == '-1':
@@ -68,11 +68,11 @@ if __name__ == "__main__":
     if sp.issparse(features):
         features = torch.FloatTensor(features.toarray())
 
-    params_all = json.load(open('best_parameters.json', 'r'))
-    params = params_all['GAugM'][args.dataset][args.gnn]
-    i = params['i']
-    A_pred = pickle.load(open(f'data/edge_probabilities/{args.dataset}_graph_{i}_logits.pkl', 'rb'))
-    adj_pred = sample_graph_det(adj_orig, A_pred, params['rm_pct'], params['add_pct'])
+    # params_all = json.load(open('best_parameters.json', 'r'))
+    # params = params_all['GAugM'][args.dataset][args.gnn]
+    # i = params['i']
+    A_pred = pickle.load(open(f'data/edge_distance/citeseer_graph_1_euclidean_logits.pkl', 'rb'))
+    adj_pred = sample_graph_det(adj_orig, A_pred, 0, 7)
 
     gnn = args.gnn
     if gnn == 'gcn':
