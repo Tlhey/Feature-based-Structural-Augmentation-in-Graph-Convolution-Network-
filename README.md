@@ -9,11 +9,11 @@ Improved accuracy in node classification using graph convolution network
 Proposed a framework that significantly improve the applicability of graph convolution network in High-dimensional and Low-Homophily graph.
 
 ## Fork Repo 
-====
+
 Source code for the AAAI'2021 paper:
 [Data Augmentation for Graph Neural Networks](https://arxiv.org/pdf/2006.06830.pdf)
 by [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), [Yozen Liu](https://research.snap.com/team/yozen-liu),  [Leonardo Neves](https://research.snap.com/team/leonardo-neves), [Oliver Woodford](https://ojwoodford.github.io/), [Meng Jiang](http://www.meng-jiang.com/), and [Neil Shah](http://nshah.net/).
-====
+
 
 ## Requirements
 
