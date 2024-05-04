@@ -39,19 +39,19 @@ To hyperparameter search, run:
 python Optuna.py --i 1_manhattan --dataset citeseer
 ```
 
-For cosine similarity can also directly run 
+For cosine similarity can also directly run Theta.py, an input example could be:
 ```
 python Theta.py --dataset cora --gpu 0 --i 1
 ```
 
-For cosine Similarity with two hop can directly run 
+For cosine Similarity with two hop can directly run Theta_2hop.py, , an input example could be:
 ```
 python Theta_2hop.py --dataset cora --gpu 0 --i 1
 ```
 
-The Homophily Ratio for each dataset is calculated through:
+The Homophily Ratio for each dataset is calculated through Homophily_Ratio.py, an input example could be:
 ```
-python Homophily_Ratio.py
+python Homophily_Ratio.py --dataset cora
 ```
 ### Plotting
 On the same directory with the generated output file, change the file name corresponding to the named one. Then run the vis.ipynb. 
