@@ -23,12 +23,34 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-The scripts for hyperparameter search with Optuna are ```optuna_[method].py```.
+### Data
+To generate similarity matrix, create the folder, GAug/data/edge_distance, then run:
+```
+ python pre.py
+```
 
-All the parameters are included in ```best_parameters.json```. Results can be reproduced with the scripts ```train_[method].py```, which will automatically load the parameters. For example, to reproduce the result of GAugO with GCN on Cora, you can simply run:
+To hyperparameter search, run:
 ```
-python train_GAugO.py --dataset cora --gnn gcn --gpu 0
+# --i: 1_manhattan, 1_euclidean, 1_cosine
+# --gpu: -1, 0, 1, ...
+# --dataset: cora, blogcatalog, airport, citeseer, flickr
+
+# example:
+python optuna_GAugM.py --i 1_manhattan --dataset citeseer
 ```
+
+For cosine similarity can also directly run 
+```
+python Theta.py --dataset cora --gpu 0 --i 1
+```
+
+For cosine Similarity with two hop can directly run 
+```
+python 2-hop_and _theta.py --dataset cora --gpu 0 --i 1
+```
+### Plotting
+On the same directory with the generated output file, change the file name corresponding to the named one. Then run the vis.ipynb. 
+
 
 ## Data
 The format of data files are described in detail in the file ```data/README```.
