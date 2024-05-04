@@ -46,7 +46,7 @@ python Theta.py --dataset cora --gpu 0 --i 1
 
 For cosine Similarity with two hop can directly run 
 ```
-python 2-hop_and _theta.py --dataset cora --gpu 0 --i 1
+python Theta_2hop.py --dataset cora --gpu 0 --i 1
 ```
 ### Plotting
 On the same directory with the generated output file, change the file name corresponding to the named one. Then run the vis.ipynb. 
