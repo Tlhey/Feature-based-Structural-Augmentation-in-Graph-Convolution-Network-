@@ -1,12 +1,21 @@
 # Feature-based Structural Augmentation in Graph Convolution Network 
 
-## Our Contrubution
+## Contrubution
+### Technical improvement: 
 We added Similarity Metrix calculation to the optuna method and make modification on GAUG-M source code. 
-We also put the output of our model in the folder Ouput.
+Our model's output is stored in the 'Output' folder
 
-Contribution:
+### Result:
 Improved accuracy in node classification using graph convolution network 
 Proposed a framework that significantly improve the applicability of graph convolution network in High-dimensional and Low-Homophily graph.
+
+### Personal contribution
+#### Coding part
+Boen is responsible for the 2-hop+cosine, and cosine  similarity matrix building (```Theta_2hop.py, Theta.py```), and calculates the homophily ratio for datasets(```Homophily_Ratio.py```).  
+Yuchen is responsible for the euclidean, manhattan, euclidean+2-hop similarity matrix buildling (```pre.py, Optuna.py```), and visualize the optuna process(```vis.ipynb```)).  
+#### Paper writing 
+Both two members contribute equally to the literature review, paper writing, presentation preparation by having intense idea communication.
+
 
 ## Fork Repo 
 
