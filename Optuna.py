@@ -82,7 +82,8 @@ def test_gaugm(trial):
     labels = pickle.load(open(f'data/graphs/{ds}_labels.pkl', 'rb'))
     if sp.issparse(features):
         features = torch.FloatTensor(features.toarray())
-    A_pred = pickle.load(open(f'data/edge_probabilities/{ds}_graph_{args.i}_logits.pkl', 'rb'))
+    adj_orig = adj_orig.dot(adj_orig) + adj_orig
+    A_pred = pickle.load(open(f'data/edge_distance/{ds}_graph_{args.i}_logits.pkl', 'rb'))
     if ds == 'cora' and args.add_train > 0:
         if args.add_train < 20:
             new_trainids = []
@@ -98,6 +99,7 @@ def test_gaugm(trial):
     remove_pct = trial.suggest_int('remove_pct', 0, 80)
     add_pct = trial.suggest_int('add_pct', 0, 80)
     adj_pred = sample_graph_det(adj_orig, A_pred, remove_pct, add_pct)
+    
     if gnn == 'gcn':
         GNN = GCN
     elif gnn == 'gat':
