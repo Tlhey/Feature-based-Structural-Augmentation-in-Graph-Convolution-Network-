@@ -36,7 +36,7 @@ To hyperparameter search, run:
 # --dataset: cora, blogcatalog, airport, citeseer, flickr
 
 # example:
-python Optuna_GAugM.py --i 1_manhattan --dataset citeseer
+python Optuna.py --i 1_manhattan --dataset citeseer
 ```
 
 For cosine similarity can also directly run 
