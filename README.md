@@ -48,6 +48,11 @@ For cosine Similarity with two hop can directly run
 ```
 python Theta_2hop.py --dataset cora --gpu 0 --i 1
 ```
+
+The Homophily Ratio for each dataset is calculated through:
+```
+python Homophily_Ratio.py
+```
 ### Plotting
 On the same directory with the generated output file, change the file name corresponding to the named one. Then run the vis.ipynb. 
 
