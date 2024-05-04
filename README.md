@@ -31,12 +31,12 @@ To generate similarity matrix, create the folder, GAug/data/edge_distance, then 
 
 To hyperparameter search, run:
 ```
-# --i: 1_manhattan, 1_euclidean, 1_cosine
+# --i: the index of output name, can be "1_manhattan", "1_euclidean", "1_cosine" if runs Optuna.py. Can be "1" if runs Theta.py or Theta_2hop.py
 # --gpu: -1, 0, 1, ...
 # --dataset: cora, blogcatalog, airport, citeseer, flickr
 
 # example:
-python optuna_GAugM.py --i 1_manhattan --dataset citeseer
+python Optuna_GAugM.py --i 1_manhattan --dataset citeseer
 ```
 
 For cosine similarity can also directly run 
