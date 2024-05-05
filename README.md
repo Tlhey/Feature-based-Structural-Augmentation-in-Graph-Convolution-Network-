@@ -72,7 +72,3 @@ The format of data files are described in detail in the file ```data/README```.
 Due to file size limit, for GAugM, only the edge_probabilities of Cora is provided.
 Please find the all edge_probabilities files at https://tinyurl.com/gaug-data. The VGAE implementation I used for generating these edge_probabilities are also provided under the folder ```vgae/```.
 
-## Cite
-If you find this repository useful in your research, please cite our paper:
-
-
